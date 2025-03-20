@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-01",
+  "version": "0.0.1",
+  "description": "este es mi proyecto de node de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joganyt01/taller-de-node-j.git"
+  },
+  "author": "Johan Yusunguaira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joganyt01/taller-de-node-j/issues"
+  },
+  "homepage": "https://github.com/joganyt01/taller-de-node-j#readme",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
