@@ -1,2 +1,2 @@
 #pryecto de prueba joha yt
-#si esto es para hacer une prueba
+#si esto es para hacer una prueba
