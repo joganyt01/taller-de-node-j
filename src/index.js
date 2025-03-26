@@ -9,4 +9,4 @@ const cumpleaños=(birthdate)=>{
 
 const calcular=cumpleaños('2001-10-01');
 
-console.log(calcular);
+console.log('su edad es '+calcular);
